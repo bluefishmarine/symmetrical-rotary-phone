@@ -1,0 +1,71 @@
+/******Header********/
+#header{
+	text-align: center;
+	padding-top: 10px;
+	background-color: steelblue;
+  	color: white;
+}
+
+#navbar{
+	background-color: gray;
+}
+
+li{
+	display: inline;
+	padding: 4px 5px 4px 5px;
+
+}
+
+
+#newcolors:hover,#easy:hover,#hard:hover{
+	background-color: rgba(255,255,255,1);
+	cursor: pointer;
+} 
+
+
+#hard{
+	margin-right: 5%;
+}
+
+#message{
+	padding-left: 12%;
+	padding-right: 12%;
+}
+
+
+#buttons{
+	text-align: none;
+}
+
+
+.active{
+	background-color: steelblue;
+}
+
+h2{
+	padding-bottom: 20px;
+}
+
+
+/********ColorTable**************/
+
+table{
+	margin: 0 auto;
+}
+
+td{
+	height: 200px;
+	width: 200px;
+	text-align: center;
+	/*background-color: aquamarine;*/
+}
+
+.square{
+	background-color: yellow;
+	height:90%;
+	width:90%;
+	border-radius:20%;
+}
+
+
+
