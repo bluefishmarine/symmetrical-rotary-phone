@@ -20,8 +20,8 @@ li{
 #newcolors:hover,#easy:hover,#hard:hover{
 	background-color: rgba(255,255,255,1);
 	cursor: pointer;
-} 
-
+}
+/*this is a test for github*/
 
 #hard{
 	margin-right: 5%;
@@ -66,6 +66,3 @@ td{
 	width:90%;
 	border-radius:20%;
 }
-
-
-
